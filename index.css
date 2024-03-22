@@ -47,8 +47,8 @@ button:hover {
 }
 @font-face {
   font-family: 'SpotifyFont';
-  src: url('C:\Users\test\Documents\lyrics\GothamBold.ttf') format('woff2'),
-       url('C:\Users\test\Documents\lyrics\GothamMedium.ttf') format('woff');
+  src: url('GothamBold.ttf') format('woff2'),
+       url('GothamMedium.ttf') format('woff');
   /* Add more font formats if necessary */
 }
 #lyricDisplay h2,
